@@ -12,7 +12,7 @@ title                    : "Anqi Liu / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://laqangela.github.io/
+url                      : "https://laqangela.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laqangela/laqangela.github.io"
 
